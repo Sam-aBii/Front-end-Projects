@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.main-wrapper{
+    background-image: url(https://raw.githubusercontent.com/shoaibbhimani/HTMLCSSPROJECT/master/heroimage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}
+.hero-wrapper{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.hero-wrapper h1{
+    font-size: 2.4rem;
+    text-align: center;
+}
+.form_code .post_code{
+    display: block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2rem;
+    padding: .6rem;
+    border: none;
+    outline: none;
+}
+.form_code button{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border-radius: 2rem;
+    background-color: turquoise;
+    padding: .6rem;
+    color: white;
+    outline: none;
+    border: 0;
+    margin-top: 1rem;
+
+
+}
