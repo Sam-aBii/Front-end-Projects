@@ -1,4 +1,18 @@
-h1,h2{
-    color: red;
-    background-color: salmon;
+*{
+    color: yellow;
+    font-style: italic;
+    background: seagreen;
+    opacity: 4;
 }
+
+h1,h2,h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: salmon;
+    font-size: 32px;
+}
+
+.main{
+    font-size: 40px;
+
+}
+
